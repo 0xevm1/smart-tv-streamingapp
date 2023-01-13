@@ -1,0 +1,12 @@
+#posters {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  h1 {
+    font-size: x-large;
+  }
+  img {
+    height: 250px;
+    padding: 3px;
+  }
+  
