@@ -1,0 +1,11 @@
+{
+  "short_name": "MakeItBetter",
+  "name": "Make It Better",
+  "icons": [
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

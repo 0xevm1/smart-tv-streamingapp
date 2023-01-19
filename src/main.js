@@ -1,3 +1,5 @@
+/** Not modified, re-written in React and Typescript in App.tsx and components/Poster.tsx **/
+
 function displayTiles(data) {
     var categories = data.categories;
     var category = categories[0];
