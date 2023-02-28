@@ -2,6 +2,8 @@
 
 A streaming app catalogue for resource-constrained Smart TVs.
 
+![](https://github.com/0xevm1/smart-tv-streamingapp/blob/main/streamingapp.png)
+
 - The app is using React to render the exact same layout within a virtual DOM, with the scaffolding to use Typescript as seen by the `.tsx` files instead of React's `.jsx` file types
 
 - The typescript use is limited to mapping the data model passed from the parent component to the child as `props`.
